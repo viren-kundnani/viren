@@ -10,4 +10,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=viren-kundnani&show_icons=true&locale=en&layout=compact" alt="viren-kundnani" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=viren-kundnani&show_icons=true&locale=en" alt="viren-kundnani" /></p>
+
